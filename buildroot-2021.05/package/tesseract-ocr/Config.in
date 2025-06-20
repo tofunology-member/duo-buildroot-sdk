@@ -12,6 +12,7 @@ menuconfig BR2_PACKAGE_TESSERACT_OCR
 	depends on !BR2_STATIC_LIBS
 	depends on BR2_USE_WCHAR
 	select BR2_PACKAGE_LEPTONICA
+	select BR2_PACKAGE_TIFF
 	help
 	  Tesseract is an OCR (Optical Character Recognition) engine,
 	  It can be used directly, or (for programmers) using an API.

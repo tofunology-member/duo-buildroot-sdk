@@ -20,3 +20,27 @@ ncscope.*
 
 __pycache__
 .vscode
+
+device/milkv-duo256m-sd/overlay/usr/lib/libatomic.a
+device/milkv-duo256m-sd/overlay/usr/lib/libatomic.la
+device/milkv-duo256m-sd/overlay/usr/lib/libatomic.so
+device/milkv-duo256m-sd/overlay/usr/lib/libatomic.so.1
+device/milkv-duo256m-sd/overlay/usr/lib/libatomic.so.1.2.0
+device/milkv-duo256m-sd/overlay/usr/lib/libgcc_s.so
+device/milkv-duo256m-sd/overlay/usr/lib/libgcc_s.so.1
+device/milkv-duo256m-sd/overlay/usr/lib/libgomp.a
+device/milkv-duo256m-sd/overlay/usr/lib/libgomp.la
+device/milkv-duo256m-sd/overlay/usr/lib/libgomp.so
+device/milkv-duo256m-sd/overlay/usr/lib/libgomp.so.1
+device/milkv-duo256m-sd/overlay/usr/lib/libgomp.so.1.0.0
+device/milkv-duo256m-sd/overlay/usr/lib/libgomp.spec
+device/milkv-duo256m-sd/overlay/usr/lib/libstdc++.a
+device/milkv-duo256m-sd/overlay/usr/lib/libstdc++.la
+device/milkv-duo256m-sd/overlay/usr/lib/libstdc++.so
+device/milkv-duo256m-sd/overlay/usr/lib/libstdc++.so.6
+device/milkv-duo256m-sd/overlay/usr/lib/libstdc++.so.6.0.28
+device/milkv-duo256m-sd/overlay/usr/lib/libstdc++.so.6.0.28-gdb.py
+device/milkv-duo256m-sd/overlay/usr/lib/libstdc++fs.a
+device/milkv-duo256m-sd/overlay/usr/lib/libstdc++fs.la
+device/milkv-duo256m-sd/overlay/usr/lib/libsupc++.a
+device/milkv-duo256m-sd/overlay/usr/lib/libsupc++.la

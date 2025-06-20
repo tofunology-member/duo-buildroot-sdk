@@ -16,6 +16,7 @@ TESSERACT_OCR_AUTORECONF = YES
 # cairo, pango and icu are optional dependencies, but only needed for
 # building training tools, which are only built explicitly with "make
 # training", which is not done by this package.
+TESSERACT_OCR_DL_DIR = $(DL_DIR)/tesseract-ocr
 TESSERACT_OCR_DEPENDENCIES = leptonica host-pkgconf
 TESSERACT_OCR_INSTALL_STAGING = YES
 TESSERACT_OCR_CONF_ENV = \
