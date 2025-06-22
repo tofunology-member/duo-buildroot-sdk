@@ -44,3 +44,4 @@ device/milkv-duo256m-sd/overlay/usr/lib/libstdc++fs.a
 device/milkv-duo256m-sd/overlay/usr/lib/libstdc++fs.la
 device/milkv-duo256m-sd/overlay/usr/lib/libsupc++.a
 device/milkv-duo256m-sd/overlay/usr/lib/libsupc++.la
+buildroot-2021.05/board/milkv
