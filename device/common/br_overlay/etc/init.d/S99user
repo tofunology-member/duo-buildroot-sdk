@@ -23,6 +23,10 @@ case "$1" in
                 . $SYSTEMPATH/blink.sh &
         fi
 
+        if [ -f $SYSTEMPATH/remote_arduino_write_daemon.sh ]; then
+                . $SYSTEMPATH/remote_arduino_write_daemon.sh &
+        fi
+
 	if [ -f $SYSTEMPATH/usb.sh ]; then
                 . $SYSTEMPATH/usb.sh &
         fi
